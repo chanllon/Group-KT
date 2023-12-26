@@ -1187,7 +1187,7 @@ if __name__ == '__main__':
         print("big error!!!!!!!!!!!!!!!!!!!!!!, not the dataset")
 
     # NOTE 学生聚类分类
-    # stu_cluster_assist09(df, NAN_FULL)
+    # stu_cluster_assist09(df, NAN_FULL) # OLD METHOD UNUSEFUL
 
     # NOTE 计算群体知识点图  TODO 根据学生分类完成知识点结构图训练 先用jupyter   E2E 想想怎么编写代码
     # extract_c2c_byStuGroup(df)        # NOTE  计算有向图
